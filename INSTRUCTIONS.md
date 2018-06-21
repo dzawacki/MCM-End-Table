@@ -1,7 +1,6 @@
-Edit this file to add assembly instructions
+The file is designed to be cut out of 3/4" material. 
 
-You can find instructions on how to edit this page on the community garden meta page [here](http://maslowcommunitygarden.org/Website.html?instructions=true)
+After cutting, pieces should fit together snugly. Recommended to round over the edges of the legs, table tops, and the support for the top piece prior to assembly. Everything should be glued for easy assembly.
 
-
-
-The style cheat sheet [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is useful
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
